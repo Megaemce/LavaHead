@@ -5,7 +5,7 @@
 
 ## Overview
 
-LavaHead is a user-friendly application designed to help you track and analyze your mood over time. By logging your emotions and activities, you can gain valuable insights into the factors that influence your well-being. Whether you're looking to improve your mood or simply understand the patterns in your emotional state, Mood Mapper is here to assist you on your journey to better mental health.
+LavaHead is a user-friendly application designed to help you track and analyze your mood over time. By logging your emotions and activities, you can gain valuable insights into the factors that influence your well-being. Whether you're looking to improve your mood or simply understand the patterns in your emotional state, LavaHead is here to assist you on your journey to better mental health.
 
 ## Features
 
