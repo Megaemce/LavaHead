@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.js",
     "scripts/seed.js"
-, "__tests__/page.test.jsx"  ],
+, "__tests__/page.test.jsx", "app/ui/dashboard/mood-rate.jsx"  ],
   "exclude": ["node_modules"]
 }

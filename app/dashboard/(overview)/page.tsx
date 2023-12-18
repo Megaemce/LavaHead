@@ -8,6 +8,7 @@ import {
   RevenueChartSkeleton,
 } from '@/app/ui/skeletons';
 import CardWrapper from '@/app/ui/dashboard/cards';
+import MoodRate from '@/app/ui/dashboard/mood-rate';
 
 const Dashboard = async () => {
   return (
@@ -15,6 +16,7 @@ const Dashboard = async () => {
       <h1 className={`${lusitana.className} mb-4 text-xl md:text-2xl`}>
         Dashboard
       </h1>
+      <MoodRate />
       <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
         <Suspense fallback={<CardsSkeleton />}>
           <CardWrapper />
