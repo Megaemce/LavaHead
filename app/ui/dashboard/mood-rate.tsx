@@ -38,9 +38,7 @@ const MoodRate = () => {
         <Space>
           <Rate
             defaultValue={2.5}
-            character={(props) =>
-              props.index !== undefined && customIcons[props.index + 1]
-            }
+            character={({ index = 0 }) => customIcons[index + 1]}
             allowHalf
             allowClear={false}
             onChange={setValue}
